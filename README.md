@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Pessoas
+# Módulo 13: Calsse Pessoa
 
 Este projeto consiste em um sistema simples para representar **Pessoas Físicas** e **Pessoas Jurídicas** utilizando a linguagem Java. Ele utiliza herança e polimorfismo para demonstrar o conceito de classes abstratas e suas implementações.
 
